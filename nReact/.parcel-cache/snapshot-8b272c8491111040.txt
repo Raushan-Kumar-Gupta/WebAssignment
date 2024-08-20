@@ -1,0 +1,12 @@
+11
+55C:\Users\raush\OneDrive\Desktop\Web_Project\nReact\dist133676844975673858 1
+78C:\Users\raush\OneDrive\Desktop\Web_Project\nReact\dist\index.3a01df49.css.map133676844975673858 0
+74C:\Users\raush\OneDrive\Desktop\Web_Project\nReact\dist\nReact.3464ddca.js133676844975338200 0
+74C:\Users\raush\OneDrive\Desktop\Web_Project\nReact\dist\index.3a01df49.css133676844975652495 0
+78C:\Users\raush\OneDrive\Desktop\Web_Project\nReact\dist\nReact.3464ddca.js.map133676844975484500 0
+77C:\Users\raush\OneDrive\Desktop\Web_Project\nReact\dist\index.7c0ccee6.js.map133676844975559968 0
+66C:\Users\raush\OneDrive\Desktop\Web_Project\nReact\dist\index.html133676844975559968 0
+73C:\Users\raush\OneDrive\Desktop\Web_Project\nReact\dist\index.7c0ccee6.js133676844975510439 0
+57C:\Users\raush\OneDrive\Desktop\Web_Project\nReact\App.js133669965335547156 0
+61C:\Users\raush\OneDrive\Desktop\Web_Project\nReact\index.html133669908792020679 0
+60C:\Users\raush\OneDrive\Desktop\Web_Project\nReact\style.css133669907340685911 0
